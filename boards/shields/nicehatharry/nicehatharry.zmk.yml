@@ -1,0 +1,7 @@
+file_format: "1"
+id: nicehatharry
+name: nicehatharry
+type: shield
+url: https://github.com/davidphilipbarr/nicehatharry
+requires: [i2c_oled]
+exposes: [nice_view_header]
