@@ -1,0 +1,2 @@
+config SHIELD_NICEHATHARRY
+	def_bool $(shield_list_contains,nicehatharry)
